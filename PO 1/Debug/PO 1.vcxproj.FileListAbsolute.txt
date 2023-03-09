@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\PO 1\PO 1\Debug\PO 1.vcxprojAssemblyReference.cache
+C:\Users\User\source\repos\PO 1\PO 1\Debug\PO1.MyForm.resources
+C:\Users\User\source\repos\PO 1\PO 1\Debug\PO 1.vcxproj.GenerateResource.cache
+C:\Users\egorg\Downloads\лаба\PO 1\PO 1\Debug\PO 1.vcxproj.AssemblyReference.cache
+C:\Users\egorg\Downloads\лаба\PO 1\PO 1\Debug\PO 1.vcxproj.GenerateResource.cache
+C:\Users\egorg\Downloads\лаба\PO 1\PO 1\Debug\PO1.HistoryForm.resources
+C:\Users\egorg\Downloads\лаба\PO 1\PO 1\Debug\PO1.MyForm.resources
+C:\Users\egorg\Downloads\лаба\PO 1\PO 1\Debug\PO1.ManualForm.resources
